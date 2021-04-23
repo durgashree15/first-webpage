@@ -357,7 +357,7 @@ ul{
 
 .footer-content{
     display:flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .social li{
